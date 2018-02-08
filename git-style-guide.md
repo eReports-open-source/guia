@@ -3,3 +3,16 @@
 # Git Style Guide
 
 Guia de estilo Git sugerido eReports open source
+
+<br>
+
+## Branches
+
+## Commits
+
+## Messages
+
+## Merging
+
+## Need Help ?
+
